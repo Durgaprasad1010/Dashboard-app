@@ -1,0 +1,24 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border-radius: 1rem;
+    border: 1px solid #dddddd;
+}
+
+td, th {
+    border-bottom: 1px solid #dddddd;
+    text-align: left;
+
+}
+
+th {
+    background-color: #ededed;
+    padding: 8px;
+}
+
+td {
+    min-height: 7rem;
+    padding: 0 8px;
+}
+
+.users-container {}

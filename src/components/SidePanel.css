@@ -1,0 +1,15 @@
+.menu-optn {
+    padding: 2rem;
+    font-size: 1.5rem;
+    color: #706767dc;
+    cursor: pointer;
+}
+
+#logo {
+    font-size: 3rem;
+}
+
+#monitor {
+    background-color: rgba(70, 67, 238, 0.10);
+    color: #4643EE;
+}
